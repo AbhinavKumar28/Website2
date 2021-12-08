@@ -1,0 +1,182 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.Ecommerce-logo {
+    height: 50px;
+    width: 120px;
+}
+
+.Services-icon {
+    height: 70px;
+    width: 100px;
+}
+
+.Services-card {
+    text-align: center;
+    padding: 25px;
+}
+
+.Services-card-heading {
+    font-size: 22px;
+}
+
+.Products-heading {
+    color: #183b56;
+}
+
+.Products-card-1 {
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png);
+    width: 100%;
+    padding: 15px;
+    border-style: solid;
+    border-width: 0px;
+    border-radius: 10px;
+    background-size: cover;
+    color: white;
+}
+
+.Products-card-2 {
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png);
+    width: 100%;
+    padding: 15px;
+    border-style: solid;
+    border-width: 0px;
+    border-radius: 10px;
+    background-size: cover;
+    color: white;
+}
+
+.Products-card-button {
+    color: #ff9f00;
+    background-color: white;
+    height: 40px;
+    width: 130px;
+    border-radius: 20px;
+    border-width: 0px;
+}
+
+.Products-modal {
+    color: black;
+}
+
+.Products-modal-heading {
+    font-size: 20px;
+    color: black;
+}
+
+.Modal-buttny {
+    background-color: white;
+    border-width: 2px;
+    color: black;
+}
+
+.Offers-background {
+    background-image: linear-gradient(to right, #f49541, #dd5d97);
+    padding-top: 60px;
+    padding-bottom: 30px;
+}
+
+.Special-offer {
+    width: 100%;
+}
+
+.Special-offer-1 {
+    width: 100px;
+    height: 100px;
+}
+
+.Offers-heading {
+    color: #ad2167;
+    font-size: 27px;
+}
+
+.blog-card-para {
+    color: #959ead;
+}
+
+.blog-card-heading {
+    color: #183b56;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.blog-card-paragraph {
+    font-size: 20px;
+}
+
+.Explorebackground {
+    background-color: #f5f7fa;
+}
+
+.Exploreheading {
+    color: #183b56;
+    font-weight: bold;
+}
+
+.Explorecard {
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 0px;
+}
+
+.Explorecardheading {
+    font-size: 25px;
+    font-weight: bold;
+    color: #183b56;
+}
+
+.miniimg {
+    width: 100%;
+    border-radius: 15px;
+}
+
+.imgy {
+    width: 90%;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.Contact-back {
+    background-color: #f5f7fa;
+    padding: 25px;
+    text-align: center;
+}
+
+.Contact-button {
+    background-color: transparent;
+    border-color: #ff9f00;
+    color: #ff9f00;
+}
+
+.Footer {
+    background-color: #0d2436;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.Footer-icon {
+    width: 50%;
+}
+
+.icon-bg {
+    height: 50px;
+    width: 50px;
+    background-color: #152c3e;
+    padding: 12px;
+    border-style: solid;
+    border-radius: 50%;
+    border-width: 0px;
+}
+
+.fabulous {
+    color: #5a7184;
+    font-size: 25px;
+}
+
+.footer-para {
+    color: #5a7184;
+}
+
+.hr-line {
+    background-color: #5a7184;
+
+}
